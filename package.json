@@ -11,12 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Suren2695/E2E-Cypress-from-scratch-basic.git"
+    "url": "git+https://github.com/Suren2695/E2E-Cypress-Framework1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Suren2695/E2E-Cypress-from-scratch-basic/issues"
+    "url": "https://github.com/Suren2695/E2E-Cypress-Framework1.git/issues"
   },
-  "homepage": "https://github.com/Suren2695/E2E-Cypress-from-scratch-basic#readme"
+  "homepage": "https://github.com/Suren2695/E2E-Cypress-Framework1.git#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "babel-loader": "^9.1.3"
+  }
 }
