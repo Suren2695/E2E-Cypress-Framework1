@@ -1,0 +1,22 @@
+{
+  "name": "e2e-cypress-framework1",
+  "version": "1.0.0",
+  "description": "Here you can get the basic cypress project with POM framework.",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suren2695/E2E-Cypress-from-scratch-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suren2695/E2E-Cypress-from-scratch-basic/issues"
+  },
+  "homepage": "https://github.com/Suren2695/E2E-Cypress-from-scratch-basic#readme"
+}
