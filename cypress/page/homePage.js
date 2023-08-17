@@ -2,9 +2,9 @@ export class homePage {
     weblocators = {
 
         searchInput : '.form-control.input-lg',
-        clickSearch : 'btn.btn-default.btn-lg',
+        clickSearch : '.btn.btn-default.btn-lg',
         product : 'img[title="MacBook"]',
-        addToCart : '#button-cart',
+        addToCart : 'Add to Cart',
         successMessage : 'div.alert.alert-success.alert-dismissible'
 
     }

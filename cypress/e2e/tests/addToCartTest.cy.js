@@ -8,9 +8,7 @@ describe('Home page in Test Automation',() => {
 
     before(() => {
         cy.login(testData.login.userName, testData.login.password)
-        cy.get('.btn.btn-primary').as('btn').click(); //issue1
-        cy.get('@btn').click();
-
+        
     })
 
 
