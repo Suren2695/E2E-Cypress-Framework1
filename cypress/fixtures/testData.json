@@ -1,0 +1,13 @@
+{
+    "product" : 
+    {
+    "productName" : "Mac Book"
+},
+"login":{
+    "userName" : "test.qa@gmail.com",
+    "password" : "Cypress1"
+},
+"message":{
+    "successMessage" : "Success: You have added MacBook to your shopping cart!"
+}
+}
