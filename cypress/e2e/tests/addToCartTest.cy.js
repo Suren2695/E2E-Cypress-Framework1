@@ -7,8 +7,7 @@ const homePageObj = new homePage()
 describe('Home page in Test Automation',() => {
 
     before(() => {
-        cy.login(testData.login.userName, testData.login.password)
-        
+        cy.login(testData.login.userName, testData.login.password)      
     })
 
 
