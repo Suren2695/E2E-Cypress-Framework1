@@ -1,4 +1,4 @@
-name: sanity End-to-end tests
+name: Browser-End-to-end tests
 on: push
 jobs:
   cypress-run:
@@ -11,4 +11,4 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v5
         with:
-            command: npm run addToCart
+            browser: firefox

@@ -9,4 +9,3 @@ npx cypress run - To run in headless mode
 2. Run customized script on CICD using Actions.
 3. Run Cypress teston multiple browsers (chrome/firefox) using Github Action.
 4. Parallel Execution using Github Actions.
-5. test
