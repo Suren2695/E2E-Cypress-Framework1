@@ -10,3 +10,11 @@ jobs:
       # and run all Cypress tests
       - name: Cypress run
         uses: cypress-io/github-action@v5
+        with:
+          command: npm run addToCart
+
+      - name: Cypress Test report
+        uses: actions/upload-artifact@v3   
+        with:
+          name: Mochawesome HTML Report
+          path: cypress/reports/html
