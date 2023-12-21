@@ -1,6 +1,7 @@
 # E2E-Cypress-Framework1
 Here you can get the basic cypress project with POM framework.
 Here the sample Examples that we used Mr. Naveen's test website. https://naveenautomationlabs.com/opencart/ 
+test
 
 # commands
 npx cypress run - To run in headless mode
